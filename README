@@ -1,0 +1,5 @@
+Build Minecraft plugins with Bukkit and Java using IntelliJ IDEA
+
+TODO
+
+- Improve build process to use one project for multiple jars. Ant or Maven instead of IDEA?
