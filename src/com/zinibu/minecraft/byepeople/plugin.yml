@@ -1,0 +1,12 @@
+name: ByePeople
+
+author: Alexis Bellido
+website: http://zinibu.com
+main: com.zinibu.minecraft.byepeople.ByePeople
+
+commands:
+    byepeople:
+        description: Say bye to everyone!
+        usage: /byepeople [optional message]
+
+version: 0.1

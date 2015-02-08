@@ -1,0 +1,12 @@
+name: HelloMonkey
+
+author: Alexis Bellido
+website: http://zinibu.com
+main: com.zinibu.minecraft.hellomonkey.HelloMonkey
+
+commands:
+    hellomonkey:
+        description: Say Hello to everyone!
+        usage: /hellomonkey [optional message]
+
+version: 0.1
