@@ -1,0 +1,12 @@
+name: BuildAHouse
+
+author: Alexis Bellido
+website: http://zinibu.com
+main: com.zinibu.minecraft.buildahouse.BuildAHouse
+
+commands:
+    buildahouse:
+        description: Build a house
+        usage: /buildahouse [width] [height]
+
+version: 0.1
