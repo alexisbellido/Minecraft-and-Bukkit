@@ -1,0 +1,12 @@
+name: Simple
+
+author: Alexis Bellido
+website: http://zinibu.com
+main: com.zinibu.minecraft.simple.Simple
+
+commands:
+    simple:
+        description: Simple
+        usage: /simple
+
+version: 0.2

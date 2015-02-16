@@ -4,10 +4,10 @@ public class MyHouse {
     public static void build_me() {
         // Declare width
         // Set width to the number of blocks
-        int width = 4;
+        int width = 10;
         // Declare height
         // Set height to the number of blocks
-        int height = 4;
+        int height = 10;
         BuildAHouse.buildMyHouse(width, height);
     }
 }

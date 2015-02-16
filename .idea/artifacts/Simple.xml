@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simple">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="Simple.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="zinibu">
+          <element id="directory" name="minecraft">
+            <element id="directory" name="simple">
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Minecraft-and-Bukkit/com/zinibu/minecraft/simple/Simple.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/zinibu/minecraft/simple/plugin.yml" />
+    </root>
+  </artifact>
+</component>

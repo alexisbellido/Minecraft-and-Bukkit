@@ -111,6 +111,7 @@ public class BuildAHouse extends JavaPlugin {
                 origin = me.getLocation();
                 firstHouse = true;
                 MyHouse.build_me();
+                log.info("Test when building house");
                 // ...and finish your code before this line.
                 return true;
             }
